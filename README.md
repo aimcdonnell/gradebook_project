@@ -1,7 +1,7 @@
 # Codecademy Python 3 Project: Gradebook
 
 ## Description
-Python 3 Codecademy assignment entailing the creation of 2D lists and .append() .remove() method practice
+Python 3 Codecademy assignment entailing the creation of 2D lists, as well as .append() and .remove() method practice
 
 ## Software and languages used
 - Visual Studio Code
