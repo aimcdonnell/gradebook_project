@@ -6,3 +6,6 @@ Python 3 Codecademy assignment entailing the creation of 2D lists, as well as .a
 ## Software and languages used
 - Visual Studio Code
 - Python
+
+## References
+https://www.codecademy.com/projects/practice/python-gradebook
